@@ -1,4 +1,5 @@
 # 🥗 FreshNest - Organic Store Website
+Live Demo: (https://beautiful-biscochitos-c53ea9.netlify.app/)
 
 FreshNest is a simple, responsive organic grocery store website built with HTML, CSS, and JavaScript.
 
